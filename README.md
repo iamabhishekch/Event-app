@@ -386,9 +386,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
 
-**Built with ❤️ by [Your Name](https://github.com/yourusername)**
+**Built with ❤️ by [Abhishek](https://github.com/yourusername)**
 
-[⭐ **Star this repo**](https://github.com/yourusername/eventtier) • [🐦 **Follow on Twitter**](https://twitter.com/yourusername) • [💼 **LinkedIn**](https://linkedin.com/in/yourusername)
+[⭐ **Star this repo**](https://github.com/yourusername/eventtier) • [🐦 **Follow on Twitter**](https://twitter.com/yourusername) • [💼 **LinkedIn**](https://linkedin.com/in/iamabhishekch)
 
 </div>
 # Event-app
